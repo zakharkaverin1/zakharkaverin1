@@ -11,11 +11,9 @@
   - Golang
   - Java(basic elements)
   - HTML/CSS(flexbox, grid)
-  - JavaScript(in process)
-- 📖 Targets for the near future:
   - JavaScript
+- 📖 Targets for the near future:
   - React
-  - Django(perhaps)
 - ✌ In repositories you can find my projects(My portfolio and skils will rise, I promise!)
 - 📫 You can ask anything about me in Telegram
   - username: @winniekekovic
