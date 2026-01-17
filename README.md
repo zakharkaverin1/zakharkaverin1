@@ -5,15 +5,15 @@
 - 💬 Programming since 2022.
 - 🤔 Finished course Yandex Lyceum "Fundamentals of Industrial programming"
 - - Certificate number: 2302172121 Каверин
-- 🗣️ Languages: Russian(native), English(b2)
+- 🗣️ Languages: Russian(native), English(b1)
 - 💻 Technoligies I'm familiar:
   - Python: Flask, Pygame, PyQt5, Telebot
-  - Golang
-  - Java(basic elements)
+  - Golang(basics)
+  - Java(basics)
   - HTML/CSS(flexbox, grid)
   - JavaScript
-- 📖 Targets for the near future:
+- 📖 Targets for the nearest future:
   - React
 - ✌ In repositories you can find my projects(My portfolio and skils will rise, I promise!)
 - 📫 You can ask anything about me in Telegram
-  - username: @winniekekovic
+  - username: @zakharKav
