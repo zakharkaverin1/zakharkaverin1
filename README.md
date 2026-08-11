@@ -13,8 +13,7 @@
   - HTML/CSS
   - JavaScript
   - React
-- 📖 Targets for the nearest future:
-  - TypeScript, Node.js
-- ✌ In repositories you can find my projects(My portfolio and skils will rise, I promise!)
+  - TypeScript
+- ✌ In repositories you can find my projects(My portfolio and skills will rise, I promise!)
 - 📫 You can ask anything about me in Telegram
   - username: @zakharKav
